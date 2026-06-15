@@ -14,5 +14,7 @@ date:{{date}}
 activity:{{activity_label}}
 
 - Change the to Email to the email you use simply putting it will be sending the answers to your email.
+- Save the template.
+- Then in the index.html file change the EMAILJS_CONFIG part to your details as per directed by the comments.
 
   well thank you and goodluck.
